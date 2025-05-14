@@ -1,4 +1,4 @@
-# 🍽️ Pick-A-Platter – AWS-Powered Serverless Food Selector
+---# 🍽️ Pick-A-Platter – AWS-Powered Serverless Food Selector
 
 Pick-A-Platter is a serverless web application that allows users to create customized meal combinations by selecting items across four categories: **starter**, **main course**, **dessert**, and **drinks**. The project is built entirely on AWS using a modern, scalable, and cost-effective architecture.
 
@@ -66,7 +66,9 @@ Pick-A-Platter is a serverless web application that allows users to create custo
 
 ---
 
+## 📸 Screenshot
 
+![Image](https://github.com/Ashish-j0511/AWS-Powered-Pick-A-Platter/blob/df7dfbbade9d6261cfb55410875188754ffb428e/Recording%202025-04-17%20215459%20(1).mp4)
 
 
 
