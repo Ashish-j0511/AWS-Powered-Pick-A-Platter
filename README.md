@@ -68,7 +68,7 @@ Pick-A-Platter is a serverless web application that allows users to create custo
 
 ## 📸 Screenshot
 
-![Image](https://github.com/Ashish-j0511/AWS-Powered-Pick-A-Platter/blob/df7dfbbade9d6261cfb55410875188754ffb428e/Recording%202025-04-17%20215459%20(1).mp4)
+https://github.com/Ashish-j0511/AWS-Powered-Pick-A-Platter/blob/df7dfbbade9d6261cfb55410875188754ffb428e/Recording%202025-04-17%20215459%20(1).mp4
 
 
 
